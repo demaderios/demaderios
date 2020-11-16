@@ -1,6 +1,10 @@
 ### ✊🏽 About Me
 I'm an Asian American with 25 years of IT experience.  I've worked mostly in the public sector with two stints in State Government (Nebraska and Oregon).  During my day job, I work in SQL, C#, MVC, and NET Core and Framework.  I'm also currently learning React.
 
+Working at being anti racist.
+
+(he/him/his)
+
 ### ✍️ Tech Blog
 I write a tech blog at [demaderios.com].
 
@@ -13,6 +17,9 @@ I write a tech blog at [demaderios.com].
 
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demaderios&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Greg's GitHub Stats" />
+
+---
+
 
 [demaderios.com]: https://demaderios.com
 
