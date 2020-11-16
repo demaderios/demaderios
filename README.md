@@ -1,8 +1,12 @@
-# About Me
+### About Me
 Asian American working on being anti racist.
 
-# ✍️ Tech Blog
+### ✍️ Tech Blog
 I write a tech blog at [demaderios.com].
+
+---
+### 🛠️ Tools & Technologies
+
 
 [demaderios.com]: https://demaderios.com
 
