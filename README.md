@@ -2,7 +2,9 @@
 Asian American working on being anti racist.
 
 # ✍️ Tech Blog
-I write a tech blog at [demaderios.com] (https://demaderios.com).
+I write a tech blog at [demaderios.com].
+
+[demaderios.com]: https://demaderios.com
 
 <!--
 **demaderios/demaderios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
