@@ -17,7 +17,7 @@ I write a tech blog at [demaderios.com].
 
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demaderios&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Greg's GitHub Stats" />
-![Greg's github stats](https://github-readme-stats.vercel.app/api?username=demaderiosra&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=demaderios&show_icons=true&theme=radical" alt="Greg's stats" />
 
 ---
 
