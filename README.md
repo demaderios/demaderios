@@ -5,6 +5,8 @@ Working at being anti racist.
 
 (he/him/his)
 
+Official GitKraken Ambassador
+
 ### ✍️ Tech Blog
 I write a tech blog at [demaderios.com].
 
