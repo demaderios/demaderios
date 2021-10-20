@@ -7,6 +7,8 @@ Working at being anti racist.
 
 Official GitKraken Ambassador
 
+[My day job Github Account](https://github.com/gregdemaderios)
+
 ### ✍️ Tech Blog
 I write a tech blog at [demaderios.com].
 
