@@ -1,8 +1,6 @@
 ### ✊🏽 About Me
 I'm an Asian American with 25 years of IT experience.  I've worked mostly in the public sector with two stints in State Government (Nebraska and Oregon).  During my day job, I work in SQL, C#, MVC, and NET Core and Framework.  I'm also currently learning React.
 
-Working at being anti racist.
-
 (he/him/his)
 
 Official GitKraken Ambassador
