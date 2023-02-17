@@ -3,9 +3,7 @@ I'm an Asian American with 25 years of IT experience.  I've worked mostly in the
 
 (he/him/his)
 
-Official GitKraken Ambassador
-
-[My day job Github Account](https://github.com/gregdemaderios)
+Ex Official GitKraken Ambassador
 
 ---
 ### 🛠️ Tools & Technologies
