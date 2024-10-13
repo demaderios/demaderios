@@ -1,5 +1,5 @@
 ### ✊🏽 About Me
-I'm an Asian American with over 25 years of IT experience.  I've worked mostly in the public sector with three stints in State Government (Nebraska, Oregon, and Washington).  During my day job, I work in SQL, C#, MVC, and NET Core and Framework.  I'm also currently learning React.
+I'm an Asian American with over 25 years of IT experience.  I've worked mostly in the public sector with three stints in State Government (Nebraska, Oregon, and Washington).  During my day job, I work in SQL, C#, MVC, and NET Core and Framework.  I'm also currently learning Laravel.
 
 (he/him/his)
 
